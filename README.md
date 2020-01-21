@@ -1,3 +1,3 @@
 # balls
-a javascript challange
+A Javascript challenge
 # Fabamaq_Challenge
