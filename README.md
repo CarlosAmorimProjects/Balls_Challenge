@@ -1,2 +1,2 @@
-# balls
-A Javascript challenge
+# Balls
+A javascript game prototype.
